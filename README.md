@@ -62,16 +62,14 @@ python app.py
 
 ---
 
-## 📈 Output
+## 📊 Sample Output
 
 - Dataset Overview
-- Missing Values Report
+- Missing Values Analysis
 - Statistical Summary
 - Correlation Heatmap
-- Distribution Plots
-- Insights
-
----
+- Histograms
+- Box Plots
 
 ## 👨‍💻 Author
 
